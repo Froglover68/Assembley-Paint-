@@ -9,7 +9,6 @@ DATASEG
  xvalueboard dw 0
  xafterboard dw 271
  yvaluesquare dw 0
- xvaluesquare dw 271
  xmoresquares dw 271
  color db 123
  colors db 32, 48, 39, 0, 15, 44, 89, 60, 7 
